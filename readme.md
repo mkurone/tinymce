@@ -59,3 +59,4 @@ You should have a __valid email address on your GitHub account__, and you will b
 After you signed your pull request will automatically be ready for review & merge.
 
 [![Build Status](https://travis-ci.org/tinymce/tinymce.png?branch=master)](https://travis-ci.org/tinymce/tinymce)
+
